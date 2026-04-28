@@ -182,7 +182,7 @@ npm run build
 
 ## 📬 Submission
 
-Repository: [GitHub link here]  
+Repository: https://github.com/L19CS198/lendswift-loan-application-form  
 Applicant: Shanmukh Naga Teja  
 Platform: ZeTheta Algorithms Private Limited  
 Project: 1A — Front End Developer Multi Step Loan Application Form
